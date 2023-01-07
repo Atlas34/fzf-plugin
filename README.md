@@ -10,7 +10,7 @@ it's been installed, and enables its fuzzy auto-completion and key bindings.
 To use it, add `fzf` to the plugins array in your zshrc file:
 
 ```zsh
-plugins=(... fzf)
+use "Atlas34/fzf-plugin"
 ```
 
 ## Settings
