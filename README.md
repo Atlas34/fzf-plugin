@@ -1,4 +1,4 @@
-#  fzf-plugin 
+# :electric_plug: fzf-plugin :electric_plug:
 
 Extracted fzf plugin from [ohmyzsh repository](https://github.com/ohmyzsh/ohmyzsh) and packaged so it can be used by my ZSH plugin manager.
 
